@@ -1,0 +1,60 @@
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\TestClient.exe
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\TestClient.pdb
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\TestClient.xml
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\ERMSAlertEngine.exe
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\Persist.dll
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\Database.dll
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\ErrorLogging.dll
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\ERMSAlertEngine.pdb
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\ERMSAlertEngine.xml
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.Resources.resources
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.TestClient.resources
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.exe
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.xml
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.pdb
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\TestClient.exe.config
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\Hyland.Unity.dll
+C:\zBret\Applications\ERMSAlertEngine\TestClient\bin\Debug\Hyland.Types.dll
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.vbprojResolveAssemblyReference.cache
+C:\zBret\Applications\ERMSAlertEngine\TestClient\obj\x86\Debug\TestClient.vbproj.GenerateResource.Cache
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.vbprojResolveAssemblyReference.cache
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.Resources.resources
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.TestClient.resources
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.vbproj.GenerateResource.Cache
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.exe
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.xml
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\obj\x86\Debug\TestClient.pdb
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\TestClient.exe.config
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\TestClient.exe
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\TestClient.pdb
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\TestClient.xml
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\AlertEngine.exe
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\Persist.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\Database.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\Hyland.Unity.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\ErrorLogging.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\Hyland.Types.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\AlertEngine.pdb
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\TestClient\bin\Debug\AlertEngine.xml
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\TestClient.exe.config
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\TestClient.exe
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\TestClient.pdb
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\TestClient.xml
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\AlertEngine.exe
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\Persist.dll
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\Database.dll
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\Hyland.Unity.dll
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\ErrorLogging.dll
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\Hyland.Types.dll
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\AlertEngine.pdb
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\AlertEngine.xml
+C:\zSourceCode\AlertEngine\TestClient\bin\Debug\AlertEngine.exe.config
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.vbproj.AssemblyReference.cache
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.Resources.resources
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.TestClient.resources
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.vbproj.GenerateResource.cache
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.vbproj.CoreCompileInputs.cache
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.vbproj.CopyComplete
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.exe
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.xml
+C:\zSourceCode\AlertEngine\TestClient\obj\x86\Debug\TestClient.pdb
