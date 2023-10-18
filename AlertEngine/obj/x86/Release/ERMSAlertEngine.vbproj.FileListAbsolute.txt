@@ -1,0 +1,17 @@
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\ERMSAlertEngine.exe
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\ERMSAlertEngine.pdb
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\ERMSAlertEngine.xml
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\Database.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\ErrorLogging.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\Persist.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMS.ERMSAlertEngine.resources
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMS.Resources.resources
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMSAlertEngine.exe
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMSAlertEngine.xml
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMSAlertEngine.pdb
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMS.ProjectInstaller.resources
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\ERMSAlertEngine.exe.config
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMSAlertEngine.vbprojResolveAssemblyReference.cache
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Release\ERMSAlertEngine.vbproj.GenerateResource.Cache
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\Hyland.Types.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Release\Hyland.Unity.dll

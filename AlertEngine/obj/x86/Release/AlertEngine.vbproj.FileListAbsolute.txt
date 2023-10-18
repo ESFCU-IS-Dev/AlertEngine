@@ -1,0 +1,31 @@
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\AlertEngine.exe.config
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\AlertEngine.exe
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\AlertEngine.pdb
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\AlertEngine.xml
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\Database.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\ErrorLogging.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\Hyland.Types.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\Hyland.Unity.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\bin\Release\Persist.dll
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\USEcology.AlertEngine.resources
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\USEcology.Resources.resources
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\USEcology.ProjectInstaller.resources
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\AlertEngine.vbproj.GenerateResource.Cache
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\AlertEngine.exe
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\AlertEngine.xml
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\AlertEngine.pdb
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\AlertEngine\obj\x86\Release\AlertEngine.vbprojResolveAssemblyReference.cache
+C:\zSourceCode\AlertEngine\AlertEngine\bin\Release\AlertEngine.exe.config
+C:\zSourceCode\AlertEngine\AlertEngine\bin\Release\AlertEngine.exe
+C:\zSourceCode\AlertEngine\AlertEngine\bin\Release\AlertEngine.pdb
+C:\zSourceCode\AlertEngine\AlertEngine\bin\Release\AlertEngine.xml
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.vbproj.AssemblyReference.cache
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.vbproj.GenerateResource.cache
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.vbproj.CoreCompileInputs.cache
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.vbproj.CopyComplete
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.exe
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.xml
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\AlertEngine.pdb
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\ESFCU.AlertEngine.resources
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\ESFCU.Resources.resources
+C:\zSourceCode\AlertEngine\AlertEngine\obj\x86\Release\ESFCU.ProjectInstaller.resources

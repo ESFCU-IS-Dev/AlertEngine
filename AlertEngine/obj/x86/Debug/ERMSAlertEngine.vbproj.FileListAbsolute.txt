@@ -1,0 +1,20 @@
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\ERMSAlertEngine.exe.config
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\ERMSAlertEngine.exe
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\ERMSAlertEngine.pdb
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\ERMSAlertEngine.xml
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\Database.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\ErrorLogging.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\Persist.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMS.ERMSAlertEngine.resources
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMS.Resources.resources
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMS.ProjectInstaller.resources
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.exe
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.xml
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.pdb
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\Hyland.Types.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\bin\Debug\Hyland.Unity.dll
+C:\zBret\Applications\ERMSAlertEngine\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.vbproj.GenerateResource.Cache
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\ERMSAlertEngine\bin\Debug\ERMSAlertEngine.exe.config
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.exe
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.xml
+C:\zUS_Ecology\Software\Source Code\Applications\AlertEngine - USE\ERMSAlertEngine\obj\x86\Debug\ERMSAlertEngine.pdb
